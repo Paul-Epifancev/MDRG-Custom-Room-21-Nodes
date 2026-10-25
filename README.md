@@ -23,6 +23,17 @@ Please do not support unauthorized monetization of community work. For your safe
 Пожалуйста, не поддерживайте несанкционированную монетизацию труда комьюнити. Для вашей безопасности скачивайте мод **ТОЛЬКО** из этого официального репозитория GitHub.
 
 ---
+## 🎥 VIDEO DEMONSTRATION / ВИДЕО-ДЕМОНСТРАЦИЯ
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=q5aYH4oVWaU" target="_blank">
+    <img src="https://raw.githubusercontent.com/Paul-Epifancev/MDRG-Custom-Room-21-Nodes/main/Screen%20639282155795370844.png" alt="MDRG Custom Room 21 Nodes Video Preview" width="600">
+  </a>
+  <br>
+  <sub>🎬 <a href="https://www.youtube.com/watch?v=q5aYH4oVWaU" target="_blank"><b>Watch the full showcase on YouTube / Смотреть на YouTube</b></a></sub>
+</div>
+
+<br>
 
 ## 📋 OVERVIEW / ОБЗОР
 
