@@ -24,16 +24,6 @@ Please do not support unauthorized monetization of community work. For your safe
 
 ---
 
-## 🎥 VIDEO DEMONSTRATION / ВИДЕО-ДЕМОНСТРАЦИЯ
-
-<div align="center">
-  🎬 <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank"><b>Watch the full showcase on YouTube / Смотреть на YouTube</b></a>
-</div>
-
-<br>
-
----
-
 ## 📋 OVERVIEW / ОБЗОР
 
 **[EN]** **MDRG Custom Room** is a comprehensive artist toolkit that unlocks full control over all 21 visual nodes in the player's bedroom. Every furniture piece, decoration, lighting element, and door is available as a purchasable item in **Lady Annalie's Clothier Shop**.
