@@ -1,0 +1,34 @@
+{
+    "name": "Custom Room",
+    "description": "Author: anon.jun",
+    "modVersion": "1.0.0",
+    "OnGameStart": {
+        "luaFiles": [
+            "scriptbg.lua",
+            "scriptplushy.lua",
+            "scriptrug.lua",
+            "scriptcupboard.lua",
+            "scriptcouch.lua",
+            "scriptdesk.lua",
+            "scriptPC.lua",
+            "scriptTV.lua",
+            "scriptwindow.lua",
+            "scriptdoor.lua",
+            "scriptbed.lua",
+            "scriptwindowLight.lua",
+            "scriptbat.lua",
+            "scriptghost.lua",
+            "scriptmorning.lua",
+            "scriptmultiply.lua",
+            "Bathroom.lua"
+        ]
+    },
+    "targetVersion": "0.97.12",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639280370422993047,
+        "guid": {
+            "serializedGuid": "9c825d0e-5985-469e-bb61-bdc642e6f284"
+        }
+    }
+}
