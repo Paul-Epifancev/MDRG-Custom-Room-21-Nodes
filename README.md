@@ -26,11 +26,11 @@ Please do not support unauthorized monetization of community work. For your safe
 ## 🎥 VIDEO DEMONSTRATION / ВИДЕО-ДЕМОНСТРАЦИЯ
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=q5aYH4oVWaU" target="_blank">
+  <a href="https://www.youtube.com/watch?v=QDdT8b9CAhg&feature=youtu.be" target="_blank">
     <img src="https://raw.githubusercontent.com/Paul-Epifancev/MDRG-Custom-Room-21-Nodes/main/Screen%20639282155795370844.png" alt="MDRG Custom Room 21 Nodes Video Preview" width="600">
   </a>
   <br>
-  <sub>🎬 <a href="https://www.youtube.com/watch?v=q5aYH4oVWaU" target="_blank"><b>Watch the full showcase on YouTube / Смотреть на YouTube</b></a></sub>
+  <sub>🎬 <a href="https://www.youtube.com/watch?v=QDdT8b9CAhg&feature=youtu.be" target="_blank"><b>Watch the full showcase on YouTube / Смотреть на YouTube</b></a></sub>
 </div>
 
 <br>
