@@ -114,8 +114,7 @@ All items are available for purchase in **Lady Annalie's Clothier Shop**. Simply
    - To hide the bed: rename to `bed.png`
    - To hide the TV: rename to `TV.png`
    - To hide the rug: rename to `rug.png`
-3. **Buy** the renamed file in Annalie's Clothier Shop and equip it.
-4. The object will become completely invisible.
+3. The object will become completely invisible.
 
 **[RU]** В архиве мода включён специальный инструмент: `Alternative transparent texture for hiding the object.png`.
 
@@ -126,8 +125,7 @@ All items are available for purchase in **Lady Annalie's Clothier Shop**. Simply
    - Чтобы скрыть кровать: переименуйте в `bed.png`
    - Чтобы скрыть телевизор: переименуйте в `TV.png`
    - Чтобы скрыть ковёр: переименуйте в `rug.png`
-3. **Купите** переименованный файл в магазине одежды Аннали и экипируйте его.
-4. Объект станет полностью невидимым.
+3. Объект станет полностью невидимым.
 
 ---
 
